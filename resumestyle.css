@@ -1,0 +1,58 @@
+body {
+    font-family: Helvetica, arial, "Times New Roman", sans-serif;
+    background: rgb(224,168,183);
+    font-size: 85%;
+    padding: 12px;
+}
+
+*.font{
+  font-family: arial;
+  font-style: normal;
+}
+
+*{
+  color:white;
+  font-size: 18px;
+}
+
+p{
+  color:white;
+  text-align: center;
+  font-size: 25px;
+  margin-left: 50px;
+  margin-right:50px;
+}
+
+h2{
+  color:white;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+
+}
+
+h4{
+  color:white;
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 40px;
+
+}
+
+#externalLink:hover{
+    color: rgb(224,168,183);
+    font-size: 20px;
+
+}
+
+a:hover{
+  color:blue;
+  font-size: 20px;
+}
+
+
+
+tr.myClass{
+  background-color: rgb(250, 201, 155);
+}
